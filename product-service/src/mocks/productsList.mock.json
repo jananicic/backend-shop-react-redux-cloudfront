@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Rubber mats",
+    "price": 275.13,
+    "description": "Our rubber mats complete set offers you comprehensive protection for your Tesla Model Y.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/2befair-gummimatten-gesamtset-fur-das-tesla-model-y-430799_2000x2000.jpg?v=1673290161"
+  },
+  {
+    "id": "2",
+    "title": "Logo emblems in black",
+    "price": 29.72,
+    "description": "Beautify the exterior of your Tesla Model Y with the matte black logos for the front hood (frunk) and the trunk lid (trunk).",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/logo-embleme-in-schwarz-fur-das-tesla-model-y-195398_2000x2000.jpg?v=1671027874"
+  },
+  {
+    "id": "3",
+    "title": "Performance pedals",
+    "price": 39.98,
+    "description": "In all standard models of the Tesla Model 3 and Tesla Model Y, rubber pedals in the footwell are standard equipment.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/performance-pedale-pedalkappen-fur-das-tesla-model-3y-777876_2000x2000.jpg?v=1657054750"
+  },
+  {
+    "id": "4",
+    "title": "Storage behind the display",
+    "price": 28.67,
+    "description": "The practical shelf can be easily mounted behind the screen of your Tesla Model 3 or Model Y using integrated magnets.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/ablage-hinter-dem-display-fur-das-tesla-model-3y-159521_2000x2000.jpg?v=1671027876"
+  },
+  {
+    "id": "5",
+    "title": "Organizer Box Center Console",
+    "price": 25.78,
+    "description": "This box is seamlessly hung in the front compartment of the center console of your Tesla Model 3 or Model Y.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/organiser-box-mittelkonsole-tesla-model-3-2021-812005_2000x2000.jpg?v=1615048886"
+  },
+  {
+    "id": "6",
+    "title": "Cup holder insert center console",
+    "price": 19.46,
+    "description": "With our cup holder insert for the center console of the Tesla Model 3 and Model Y, wobbling and slipping of cups, bottles and beverage cans is a thing of the past.",
+    "image_url": "https://cdn.shopify.com/s/files/1/0386/1584/2956/products/getrankehalter-einsatz-mittelkonsole-fur-das-tesla-model-3y-615232_2000x2000.jpg?v=1657314321"
+  }
+]
